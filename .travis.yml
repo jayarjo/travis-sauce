@@ -6,8 +6,9 @@ before_script:
 - sleep 3
 addons:
   sauce_connect:
-    username: davit@moxiecode.com
+    username: SAUCE_USER
     access_key: SAUCE_KEY
 env:
   global:
-    secure: anUdveu1+PbmCj3v2WAjIUFi113ZhIEahQM5kyOuyFw80wKCqoI21FEzLQmpJTtKUvgbUzVfoSg7+nPOQrWUbE+B0TrZfiGJVGw7QE7cemujYAzzQrnDcEeLWGxfSXkH+JyOiYPyCzdtkpyDKPqXo4PsOIRQ5gWo64HFmS4A8BU=
+    secure: "k9c9HZjcEUxcQxENQRknd0LdX6/jEaw0fh6VUQtQPscUyg3ipwZoRv618iZE5h8TeD5U62xbqA1F6AX/pU9BJMC9RN3t4rkT+MRIkclzDXbPFEQnZgRZe19B/IetbyG9zZzy8Kbo24p1Wfe3hSMY4WYx8yL1qiV/CG0oELffXug="
+    secure: "VQKrO14HIZfPhKFY+wtvmyjsNzpa+QCW5XtY8EUdyPNb162B5xakljdhaGbfN7iVn9s/VwwQUEpWmU4KfTgxnrTx1lMR2l2OvrpBe8AblGmnC+XDhyk9hUT0laVxRu35+o652wAK49yRc/jEl8h4hmXdfN/+epYD3n8XVVzNZYM="
