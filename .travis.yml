@@ -5,10 +5,8 @@ before_script:
 - yeti --server --port=9000 &
 - sleep 3
 addons:
-  sauce_connect:
-    username: SAUCE_USER
-    access_key: SAUCE_KEY
+  sauce_connect: true
 env:
   global:
-    secure: "k9c9HZjcEUxcQxENQRknd0LdX6/jEaw0fh6VUQtQPscUyg3ipwZoRv618iZE5h8TeD5U62xbqA1F6AX/pU9BJMC9RN3t4rkT+MRIkclzDXbPFEQnZgRZe19B/IetbyG9zZzy8Kbo24p1Wfe3hSMY4WYx8yL1qiV/CG0oELffXug="
-    secure: "VQKrO14HIZfPhKFY+wtvmyjsNzpa+QCW5XtY8EUdyPNb162B5xakljdhaGbfN7iVn9s/VwwQUEpWmU4KfTgxnrTx1lMR2l2OvrpBe8AblGmnC+XDhyk9hUT0laVxRu35+o652wAK49yRc/jEl8h4hmXdfN/+epYD3n8XVVzNZYM="
+    secure: "jjh2XR2K/VrZVWnOl187riYkKJFkapdUPEKIukkinE4XlBL3Sxaq1mgEAAvak9ZJulIKNSeCSgS/6xd0L+y2AFyaGZZ4b7EpEWGVMrrHhInurrt/jLA0yFLnCbEGPu5xORmo9+Qg4HTGHduAF6hZ6qvevPzhcWbjRQX1gALVVpo="
+    secure: "IiS/RewBDusC6RLcZi3T/1AxBE5fpMaML/dG4JJI1egMHCxpxANDJwtWxzFKbM3MkBxTukKqWRfGEqjDwJS5E7TPfKbjxmZRDf5LggV28PIB/x9wsZw0h5PrLDVouAkFtb8mEQaR78ohTz3NRwAxPOmsy6MTPA0wHdnVbPhXZxM="
