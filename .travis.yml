@@ -1,0 +1,14 @@
+---
+language: node_js
+node_js:
+- '0.10'
+before_script:
+- yeti --server --port=9000 &
+- sleep 3
+addons:
+  sauce_connect:
+    username: "davit@moxiecode.com"
+    access_key: SAUCE_KEY
+env:
+  global:
+  
