@@ -8,5 +8,5 @@ addons:
   sauce_connect: true
 env:
   global:
-    secure: "jjh2XR2K/VrZVWnOl187riYkKJFkapdUPEKIukkinE4XlBL3Sxaq1mgEAAvak9ZJulIKNSeCSgS/6xd0L+y2AFyaGZZ4b7EpEWGVMrrHhInurrt/jLA0yFLnCbEGPu5xORmo9+Qg4HTGHduAF6hZ6qvevPzhcWbjRQX1gALVVpo="
-    secure: "IiS/RewBDusC6RLcZi3T/1AxBE5fpMaML/dG4JJI1egMHCxpxANDJwtWxzFKbM3MkBxTukKqWRfGEqjDwJS5E7TPfKbjxmZRDf5LggV28PIB/x9wsZw0h5PrLDVouAkFtb8mEQaR78ohTz3NRwAxPOmsy6MTPA0wHdnVbPhXZxM="
+  - secure: BTZEvtEk109wAZKaH78k6c1Wc030znVXaXgix6wvWYmlMHAMmqCcgjvT7SmYRgbn/Wuz7p8vF1FWDe4n+48kexLm67f4EjXOE6wbh/S12EE7iYfQmE7reIYTXiO1XnnFvJJG6E7h3gMlJUtasJgkiz4YDujOJWnWPi1v1pEwdDs=
+  - secure: J3FKobuZFvWPlH269Gft0Jg0oF/mTmIdhV269egqwoQeQ76+esjRog+7jsTn5hqs0IIu2OwTYy0yoNkJ7C0it1/2rnaoNtNz/z+81Me6HRluEeJpqiGKGUG3bf9xO4TVEuak/AFU/z+hYMl/shQC7AaMiNrQhZWLqYUAfLzBj5A=
