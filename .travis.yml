@@ -1,4 +1,3 @@
----
 language: node_js
 node_js:
 - '0.10'
@@ -7,8 +6,8 @@ before_script:
 - sleep 3
 addons:
   sauce_connect:
-    username: "davit@moxiecode.com"
+    username: davit@moxiecode.com
     access_key: SAUCE_KEY
 env:
   global:
-  
+    secure: anUdveu1+PbmCj3v2WAjIUFi113ZhIEahQM5kyOuyFw80wKCqoI21FEzLQmpJTtKUvgbUzVfoSg7+nPOQrWUbE+B0TrZfiGJVGw7QE7cemujYAzzQrnDcEeLWGxfSXkH+JyOiYPyCzdtkpyDKPqXo4PsOIRQ5gWo64HFmS4A8BU=
