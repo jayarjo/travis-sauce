@@ -17,4 +17,6 @@ var config = {
 	, wait: true
 };
 
-require('../node_modules/bunyip/lib/bunyip').main(config);
+require('../node_modules/bunyip/lib/bunyip').main(config, function(code) {
+	process.exit(code);
+});
