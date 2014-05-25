@@ -3,10 +3,12 @@
     "version": "0.0.9",
     "private": true,
     "engines": {
-        "node" : ">=0.8.0"
+        "node": ">=0.8.0"
     },
     "dependencies": {
-        "yeti": "0.2.x",
-        "wd": "0.0.x"
+        "bunyip": "https://github.com/jayarjo/bunyip/tarball/master"
+    },
+    "scripts": {
+        "test": "node test/testrunner.js"
     }
 }
