@@ -9,6 +9,6 @@
         "bunyip": "https://github.com/jayarjo/bunyip/tarball/master"
     },
     "scripts": {
-        "test": "node test/testrunner.js"
+        "test": "node tests/testrunner.js"
     }
 }
