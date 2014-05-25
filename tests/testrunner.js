@@ -1,7 +1,7 @@
 var config = {
 	  hub: "http://localhost:9000"
 	, farm: 'saucelabs'
-	, saucelabs: {
+	, saucelabs: { 
 		  user: process.env.SAUCE_USERNAME
 		, pass: process.env.SAUCE_ACCESS_KEY
 		, slots: 1
