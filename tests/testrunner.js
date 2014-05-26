@@ -9,8 +9,8 @@ var config = {
 	}
 	, args: ['tests/test.html']
 	, browsers: [  
-		  { id: 'chrome', version: 28, osId: 'mac' }
-		, { id: 'ie', version: 10, osId: 'win' }
+		  { id: 'chrome', version: 26, osId: 'win' }
+		//, { id: 'ie', version: 10, osId: 'win' }
 		//, { id: 'firefox', version: 16, osId: 'mac' }
 	]
 
