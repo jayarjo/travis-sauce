@@ -6,7 +6,8 @@
         "node": ">=0.8.0"
     },
     "dependencies": {
-        "bunyip": "https://github.com/jayarjo/bunyip/tarball/master"
+        "bunyip": "https://github.com/jayarjo/bunyip/tarball/master",
+        "yeti": "https://github.com/jayarjo/yeti/tarball/master"
     },
     "scripts": {
         "test": "node tests/testrunner.js"
