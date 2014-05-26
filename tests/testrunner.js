@@ -5,6 +5,7 @@ var config = {
 		  user: process.env.SAUCE_USERNAME
 		, pass: process.env.SAUCE_ACCESS_KEY
 		, slots: 1
+		, timeout: 30000
 	}
 	, args: ['tests/test.html']
 	, browsers: [  
